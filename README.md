@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tcno.co"><img src="https://i.imgur.com/ppB9LNC.png" alt="TechNobo logo" width="60%"></a>
+  <a href="https://tcno.co"><img src="https://i.imgur.com/ppB9LNC.png" alt="TCNO logo" width="60%"></a>
 </p>
   
 I'm Wesley, a freelance Voice-Over artist and (mostly How-To) video creator/editor, fulltime YouTuber on [TroubleChute](https://www.youtube.com/TroubleChute) from South Africa.
@@ -28,7 +28,7 @@ My website/Portfolio: https://tcno.co
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
-Direct donations: https://ko-fi.com/TechNobo<br>
+Direct donations: https://ko-fi.com/TCNOco<br>
 Direct crypto donations:<br>
 <img src="https://img.shields.io/badge/BTC-9C6205?logoWidth=17&style=for-the-badge&logo=bitcoin" alt="BTC"> `bc1q588qmlrh2wczp9jfkf864r047whzn5cw0nux69`<br>
 <img src="https://img.shields.io/badge/ETH-454A75?logoWidth=16&style=for-the-badge&logo=ethereum&logoColor=75A6C6" alt="ETH"> `0x752c637F4eAe0D97524dC67725da331F14b8Cf6B`<br>
