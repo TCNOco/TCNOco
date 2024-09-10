@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tcno.co"><img src="[https://i.imgur.com/ppB9LNC.png](https://i.imgur.com/fd1beCe.png)" alt="TCNO logo" width="60%"></a>
+  <a href="https://tcno.co"><img src="https://i.imgur.com/fd1beCe.png" alt="TCNO logo" width="60%"></a>
 </p>
   
 I'm Wesley, a freelance Voice-Over artist and (mostly How-To) video creator/editor, fulltime YouTuber on [TroubleChute](https://www.youtube.com/TroubleChute) from South Africa.
